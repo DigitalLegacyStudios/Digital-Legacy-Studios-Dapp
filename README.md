@@ -1,4 +1,4 @@
-# Digital-Legacy-Studios-Dapp
+# Digital Legacy Studios (DLS) Dapp
 A decentralized application (dApp) for the DLS Utility Token on the Polygon network, enabling secure media preservation, metadata protection, and decentralized ownership.
 
 Overview
